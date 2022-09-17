@@ -14,7 +14,7 @@ const AboutMe = () => {
         who am i?
       </h1>
       <h2 data-aos="fade-up" className="intro-name">
-        Hello, I am <span>Aimon Imran</span>
+        Hello, I am <span>Ibtsam Khan</span>
       </h2>
       <h3 data-aos="fade-up" className="intro">
         I'm a <span>web developer</span> oriented to <span>frontend</span>, I
@@ -28,8 +28,8 @@ const AboutMe = () => {
         combine clean and simple code with attractive design.
       </h3>
       <h3 data-aos="fade-up" className="intro">
-        I'm currently pursuing my degree in <span>Computer Science</span> from
-        NED University of Engineering and Technology.
+        I'm currently pursuing my degree in <span>Information Technology</span> from
+        BahaUddin Zakariya University, Multan.
       </h3>
       <h3 data-aos="fade-up" className="intro">
         My aim is to take <span>coding</span> to a professional level and thus,
