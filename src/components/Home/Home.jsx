@@ -11,14 +11,14 @@ const Home = () => {
       <div className="info-container-left">
         <div className="socials">
           <a
-            href="https://github.com/aimonimran"
+            href="https://github.com/iibtsamkhan"
             target="_blank"
             title="GitHub"
           >
             <AiFillGithub />
           </a>
           <a
-            href="https://www.linkedin.com/in/aimon-imran-420b091a6/"
+            href="https://www.linkedin.com/in/ibtsam-khan-406881210/"
             target="_blank"
             title="LinkedIn"
           >
@@ -26,9 +26,9 @@ const Home = () => {
           </a>
         </div>
         <div className="info">
-          <h1 className="name">Aimon Imran</h1>
+          <h1 className="name">Ibtsam Khan</h1>
           <h4 className="about-me">
-            I'm a React developer and a Computer Science student, constantly
+            I'm a React developer and an IT student, constantly
             looking for new opportunities to expand my skill set.
           </h4>
         </div>
