@@ -45,7 +45,7 @@ const Contact = () => {
           <p className="available">
             I'm available for work.
             <br />
-            Drop me a word at <span>aimon.imran@gmail.com</span>.
+            Drop me a word at <span>stratadragon007@gmail.com</span>.
           </p>
         </div>
         <div className="form-container">
