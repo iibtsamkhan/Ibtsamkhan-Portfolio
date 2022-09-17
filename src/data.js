@@ -48,7 +48,7 @@ export const projects = [
       "Quiz App is live. The application's drafts are also provided here. Check out the GitHub repository for the code or click on 'Demo' to view the application online.",
     note: "",
     tech: ["HTML5", "CSS3", "JavaScript (ES6)", "React.js"],
-    frontend: "https://github.com/aimonimran/quiz-app",
+    frontend: "",
     backend: "",
     liveDemo: "https://comfy-taffy-ca418c.netlify.app/",
     imageone: quizimage,
