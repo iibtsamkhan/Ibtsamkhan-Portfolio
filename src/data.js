@@ -121,7 +121,7 @@ export const frontend = [
   {
     id: 4,
     skill: "JavaScript",
-    experience: "Intermediate",
+    experience: "Beginner",
   },
   {
     id: 5,
