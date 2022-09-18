@@ -96,7 +96,7 @@ export const projects = [
     ],
     frontend: "",
     backend: "",
-    liveDemo: "",
+    liveDemo: "https://pedia-view.netlify.app/",
     imageone: ecommerceimage,
     imagetwo: ecommerceimagetwo,
   },
