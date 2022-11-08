@@ -65,7 +65,7 @@ const Contact = () => {
                 Send Message
               </button>
               <div className="scroll-up">
-                <a href="stratadragon007@gmil.com">
+                <a href="#">
                   <AiOutlineUp />
                 </a>
               </div>
