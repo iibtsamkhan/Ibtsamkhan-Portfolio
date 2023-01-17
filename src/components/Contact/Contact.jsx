@@ -18,7 +18,7 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_ho2ibnu", "Ibbi_autoreply357", form.current, "lYuful5ws87LyIj53"
+        "service_ho2ibnu", "Ibbi_autoreply357753", form.current, "lYuful5ws87LyIj53"
       )
       .then(
         (result) => {
