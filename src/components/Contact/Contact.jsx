@@ -70,6 +70,37 @@ const Contact = () => {
                 </a>
               </div>
             </div>
+                  <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/umairbilal863 rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-cc742342-4174-45f5-a89c-ac66ffaccd53' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >umairbilal863</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Hi! It's a pleasure to have you going through my profile. I believe we can be a great match. I am an IT Student and a Web Developer. I run a Digital Company and our motive is to make your business. We provide all kind of web services from Frontend to Backend in popular Stacks. I am very passionate to provide my clients with best possible services and do my job with utmost dedication. Talk to you soon!</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-cc742342-4174-45f5-a89c-ac66ffaccd53' src='https://widgets.fiverr.com/api/v1/seller/umairbilal863?widget_id=cc742342-4174-45f5-a89c-ac66ffaccd53' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/umairbilal863 rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-cc742342-4174-45f5-a89c-ac66ffaccd53' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >umairbilal863</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Hi! It's a pleasure to have you going through my profile. I believe we can be a great match. I am an IT Student and a Web Developer. I run a Digital Company and our motive is to make your business. We provide all kind of web services from Frontend to Backend in popular Stacks. I am very passionate to provide my clients with best possible services and do my job with utmost dedication. Talk to you soon!</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-cc742342-4174-45f5-a89c-ac66ffaccd53' src='https://widgets.fiverr.com/api/v1/seller/umairbilal863?widget_id=cc742342-4174-45f5-a89c-ac66ffaccd53' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+
           </form>
         </div>
       </div>
