@@ -120,7 +120,7 @@ export const frontend = [
   },
   {
     id: 4,
-    skill: "JavaScript",
+    skill: "GitHub",
     experience: "Experienced",
   },
   {
@@ -135,7 +135,7 @@ export const frontend = [
   },
   {
     id: 7,
-    skill: "GitHub",
+    skill: "JavaScript",
     experience: "Experienced",
   },
   {
