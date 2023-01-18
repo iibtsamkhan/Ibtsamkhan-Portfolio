@@ -121,22 +121,22 @@ export const frontend = [
   {
     id: 4,
     skill: "JavaScript",
-    experience: "Beginner",
+    experience: "Experienced",
   },
   {
     id: 5,
     skill: "React.js",
-    experience: "Beginner",
+    experience: "Experienced",
   },
   {
     id: 6,
-    skill: "Visual Studio Code",
-    experience: "Intermediate",
+    skill: "VS Code",
+    experience: "Experienced",
   },
   {
     id: 7,
     skill: "GitHub",
-    experience: "Beginner",
+    experience: "Experienced",
   },
   {
     id: 8,
