@@ -115,8 +115,8 @@ export const frontend = [
   },
   {
     id: 3,
-    skill: "Bootstrap",
-    experience: "Intermediate",
+    skill: "GitHub",
+    experience: "Experienced",
   },
   {
     id: 4,
@@ -135,12 +135,12 @@ export const frontend = [
   },
   {
     id: 7,
-    skill: "GitHub",
+    skill: "WordPress",
     experience: "Experienced",
   },
   {
     id: 8,
-    skill: "WordPress",
+    skill: "Haskell",
     experience: "Experienced",
   },
 ];
