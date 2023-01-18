@@ -138,4 +138,9 @@ export const frontend = [
     skill: "GitHub",
     experience: "Beginner",
   },
+  {
+    id: 8,
+    skill: "WordPress",
+    experience: "Experienced",
+  },
 ];
