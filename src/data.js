@@ -115,7 +115,7 @@ export const frontend = [
   },
   {
     id: 3,
-    skill: "GitHub",
+    skill: "WordPress",
     experience: "Experienced",
   },
   {
@@ -135,7 +135,7 @@ export const frontend = [
   },
   {
     id: 7,
-    skill: "WordPress",
+    skill: "GitHub",
     experience: "Experienced",
   },
   {
