@@ -28,7 +28,7 @@ const Home = () => {
         <div className="info">
           <h1 className="name">Ibtsam Khan</h1>
           <h4 className="about-me">
-            I'm a Full Stack WordPress Developer and passionate about Frontend Development Technologies like React. I'm an IT student, constantly
+            I'm a Full Stack WordPress Developer, passionate about Frontend Development Technologies like React. And I'm an IT student, constantly
             looking for new opportunities to expand my skill set.
           </h4>
         </div>
