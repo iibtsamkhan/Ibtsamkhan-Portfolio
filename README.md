@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Title
+
+Portfolio - An E portfolio that showcases my skills as a frontend developer.
+
 ## Available Scripts
 
 In the project directory, you can run:
